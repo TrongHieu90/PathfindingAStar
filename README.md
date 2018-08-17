@@ -8,4 +8,4 @@
 **Video tutorial is from this link**
 https://www.youtube.com/watch?v=aKYlikFAV4k
 
-The main algorithm is in side the form.cs file. There are some modifications to make it work inside Windows Form (which makes you appreciate the p5 library even more with how it simplifies things)
+The main algorithm is inside the form.cs file. There are some modifications to make it work inside Windows Form (which makes you appreciate the p5 library even more with how it simplifies things)
