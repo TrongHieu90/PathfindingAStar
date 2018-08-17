@@ -279,7 +279,7 @@ namespace WindowsFormsApp2
                     else
                     {
                         string message = "Redrawn has not been implemented yet. Restart the program.";
-                        string caption = "Lazy dev detectected!";
+                        string caption = "Lazy dev detected!";
 
                         MessageBoxButtons buttons = MessageBoxButtons.OK;
                         DialogResult result;
