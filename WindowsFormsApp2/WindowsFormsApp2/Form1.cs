@@ -100,13 +100,13 @@ namespace WindowsFormsApp2
                     neighbors.Add(grid[i - 1][j]);
                 }
 
-                //up adjacent spot
+                //down adjacent spot
                 if (j < rows - 1)
                 {
                     neighbors.Add(grid[i][j + 1]);
                 }
 
-                //down adjacent spot
+                //up adjacent spot
                 if (j > 0)
                 {
                     neighbors.Add(grid[i][j - 1]);
